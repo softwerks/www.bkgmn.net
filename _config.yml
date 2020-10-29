@@ -1,0 +1,12 @@
+title: Backgammon Network
+description: Play backgammon online against friends and competitors from around the world.
+url: https://www.bkgmn.net
+author:
+  name: Softwerks LLC
+  url: https://www.softwerks.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  
